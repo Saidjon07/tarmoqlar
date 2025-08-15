@@ -1,1 +1,1 @@
-# tarmoqlar
+# 1-dars
