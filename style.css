@@ -1,0 +1,40 @@
+body{
+    background-color: brown;
+}
+
+.title{
+    background-color: aqua;
+    text-align: center;
+    color: white;
+}
+.bb{
+    background-color: wheat;
+}
+.ss{
+background-color: white;
+width: 25%;
+border: 1px solid black ;
+border-radius: 5px;
+text-align: center;
+}
+
+.zll{
+ background-color: white;
+width: 25%;
+border: 1px solid black ;
+border-radius: 5px;
+text-align: center;   
+}
+
+.uu{
+    background-color: black;
+    color:white;
+    border-radius: 8px;
+ 
+}
+.vauv{
+    background-color: black;
+    color:white;
+    border-radius: 8px;
+   
+}
